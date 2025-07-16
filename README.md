@@ -2,15 +2,21 @@
 
 ### Education
 University of Texas Health Science Center at Houston (UTHealth) 
+
 Master of Science in Biomedical Informatics: Health Data Science
+
 Anticipated Graduation: Dec. 2025
 
 University of North Texas Health Science Center (UNTHSC)
+
 Doctor of Physical Therapy, Cum Laude
+
 2019
 
 Baylor University
+
 Bachelor of Science in Education, Health Science Studies, Cum Laude
+
 2016
 
 
