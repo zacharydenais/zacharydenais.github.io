@@ -1,14 +1,17 @@
 # _Residency-trained physical therapist with six years of hospital-based clinical experience, seeking to leverage diverse clinical expertise to improve healthcare through data science and analytics_
 
 ### Education
-University of Texas Health Science Center at Houston (UTHealth)	                     Anticipated Graduation: Dec. 2025
-Master of Science in Biomedical Informatics: Health Data Science 			               Houston, TX
+University of Texas Health Science Center at Houston (UTHealth)
+Master of Science in Biomedical Informatics: Health Data Science
+Anticipated Graduation: Dec. 2025
 
-University of North Texas Health Science Center (UNTHSC) 		    	       	           May 2019
-Doctor of Physical Therapy, Cum Laude					          	  	                       Fort Worth, TX
+University of North Texas Health Science Center (UNTHSC)
+Doctor of Physical Therapy, Cum Laude
+2019
 
-Baylor University									                                                   May 2016
-Bachelor of Science in Education, Health Science Studies, Cum Laude 	   	       	   Waco, TX
+Baylor University
+Bachelor of Science in Education, Health Science Studies, Cum Laude
+2016
 
 
 ### Work Experience
