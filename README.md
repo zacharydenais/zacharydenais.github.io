@@ -1,7 +1,7 @@
 # _Residency-trained physical therapist with six years of hospital-based clinical experience, seeking to leverage diverse clinical expertise to improve healthcare through data science and analytics_
 
 ### Education
-University of Texas Health Science Center at Houston (UTHealth)
+University of Texas Health Science Center at Houston (UTHealth) 
 Master of Science in Biomedical Informatics: Health Data Science
 Anticipated Graduation: Dec. 2025
 
