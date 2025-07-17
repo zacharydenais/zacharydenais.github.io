@@ -1,14 +1,15 @@
 # _Residency-trained physical therapist with six years of hospital-based clinical experience, seeking to leverage diverse clinical expertise to improve healthcare through data science and analytics_
 
 ### <ins>Education</ins>
-Master of Science in Biomedical Informatics: Health Data Science
+
+**Master of Science in Biomedical Informatics: Health Data Science**
 - University of Texas Health Science Center at Houston (UTHealth)
 - Anticipated Graduation: Dec. 2025
 
-Doctor of Physical Therapy, Cum Laude
+**Doctor of Physical Therapy, Cum Laude**
 - University of North Texas Health Science Center (UNTHSC), 2019
 
-Bachelor of Science in Education, Health Science Studies, Cum Laude
+**Bachelor of Science in Education, Health Science Studies, Cum Laude**
 - Baylor University, 2016
 
 
@@ -23,7 +24,7 @@ January 2025 – August 2025
 
 
 **Physical Therapist II – Acute Care**\
-Houston Methodist Hospital – Texas Medical Center\				         
+Houston Methodist Hospital – Texas Medical Center\
 July 2022 – Present
 - Collaborates with leadership and nursing teams to generate innovative solutions in high-volume surgery units that improve quality and efficiency of care
 - Develops quality improvement projects that facilitate unit throughput and improved resource utilization, including referral algorithms for improved referral quality and staffing models
@@ -31,8 +32,8 @@ July 2022 – Present
 - Provides intra- and interdepartmental staff trainings, including presentation at the Houston Methodist Neuroscience Nursing Symposium
 
 
-**PRN Physical Therapist II**\	
-Children’s Memorial Hermann – Texas Medical Center\				    
+**PRN Physical Therapist II**\
+Children’s Memorial Hermann – Texas Medical Center\
 July 2022 – Sept. 2023
 - Performed direct patient care to orthopedic/trauma, cardiac, and neurologic populations in acute, intermediate, and intensive care units in a level I trauma pediatric hospital
 - Served as a subject matter expert / clinical resource for interprofessional teams regarding safe mobilization of pediatric patients
