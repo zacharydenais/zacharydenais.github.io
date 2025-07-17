@@ -3,8 +3,7 @@
 # <ins>Education</ins>
 
 **Master of Science in Biomedical Informatics: Health Data Science**\
-University of Texas Health Science Center at Houston (UTHealth)\
-Anticipated Graduation: Dec. 2025
+University of Texas Health Science Center at Houston (UTHealth), 2025
 
 **Doctor of Physical Therapy, Cum Laude**\
 University of North Texas Health Science Center (UNTHSC), 2019
