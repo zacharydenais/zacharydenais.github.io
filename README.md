@@ -11,7 +11,7 @@ University of North Texas Health Science Center (UNTHSC), 2019
 **Bachelor of Science in Education, Health Science Studies, Cum Laude**\
 Baylor University, 2016
 
-# <ins>Technical Skills<\ins>
+# <ins>Technical Skills</ins>
 *Data Wrangling, Data Analysis, Data Visualization, Object-Oriented Programming, Statistical Analysis, Quantitative Communication, Big Data Management, Database Management, Machine Learning*
 
 Entry-level to intermediate experience with Python (pandas, pyspark, sklearn), R, SAS, SQL, Tableau
