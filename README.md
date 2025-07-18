@@ -57,4 +57,3 @@ TIRR Memorial Hermann Greater Heights\
 July 2019 – June 2021
 - Performed evaluations, developed and managed custom care plans, and produced accurate medical documentation for moderate to high-complexity patients
 - Supervised and trained junior therapists, Physical Therapy Assistants, and technicians
-- 
