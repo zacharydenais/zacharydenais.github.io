@@ -1,7 +1,7 @@
-#### _Residency-trained physical therapist with six years of hospital-based clinical experience, seeking to leverage diverse clinical expertise to improve healthcare through data science and analytics_
-\
+#### _Residency-trained physical therapist with six years of hospital-based clinical experience, seeking to leverage diverse clinical expertise to improve healthcare through data science and analytics_\
 
-\
+
+
 # <ins>Education</ins>
 
 **Master of Science in Biomedical Informatics: Health Data Science**\
@@ -11,17 +11,17 @@ University of Texas Health Science Center at Houston (UTHealth), 2025
 University of North Texas Health Science Center (UNTHSC), 2019
 
 **Bachelor of Science in Education, Health Science Studies, Cum Laude**\
-Baylor University, 2016
-\
+Baylor University, 2016\
 
-\
+
+
 # <ins>Technical Skills</ins>
 *Data Wrangling, Data Analysis, Data Visualization, Object-Oriented Programming, Statistical Analysis, Quantitative Communication, Big Data Management, Database Management, Machine Learning*
 
-Entry-level to intermediate experience with Python (pandas, pyspark, sklearn), R, SAS, SQL, Tableau
-\
+Entry-level to intermediate experience with Python (pandas, pyspark, sklearn), R, SAS, SQL, Tableau\
 
-\
+
+
 # <ins>Work Experience</ins>
 
 **Data Analysis Intern**\
