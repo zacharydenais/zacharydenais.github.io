@@ -25,7 +25,7 @@ Entry-level to intermediate experience with Python (pandas, pyspark, sklearn), R
 # <ins>Work Experience</ins>
 
 **Data Analysis Intern**\
-Texas DSHS – Texas Healthcare Information Collection Team\
+Texas Department of State Health Services – Texas Healthcare Information Collection Team\
 January 2025 – August 2025							 
 - Designing and completing data science research project in collaboration with THCIC team, to investigate avoidable Emergency Department visits for chronic disease management in Texas
 - Organizes, cleans, validates, and prepares data from multiple data sources and performs statistical analysis using SAS, Python, and R
