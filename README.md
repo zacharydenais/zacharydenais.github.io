@@ -1,5 +1,7 @@
 #### _Residency-trained physical therapist with six years of hospital-based clinical experience, seeking to leverage diverse clinical expertise to improve healthcare through data science and analytics_
-
+\
+\
+\
 # <ins>Education</ins>
 
 **Master of Science in Biomedical Informatics: Health Data Science**\
@@ -10,14 +12,16 @@ University of North Texas Health Science Center (UNTHSC), 2019
 
 **Bachelor of Science in Education, Health Science Studies, Cum Laude**\
 Baylor University, 2016
-
+\
+\
+\
 # <ins>Technical Skills</ins>
 *Data Wrangling, Data Analysis, Data Visualization, Object-Oriented Programming, Statistical Analysis, Quantitative Communication, Big Data Management, Database Management, Machine Learning*
 
 Entry-level to intermediate experience with Python (pandas, pyspark, sklearn), R, SAS, SQL, Tableau
-
-
-
+\
+\
+\
 # <ins>Work Experience</ins>
 
 **Data Analysis Intern**\
@@ -26,7 +30,6 @@ January 2025 – August 2025
 - Designing and completing data science research project in collaboration with THCIC team, to investigate avoidable Emergency Department visits for chronic disease management in Texas
 - Organizes, cleans, validates, and prepares data from multiple data sources and performs statistical analysis using SAS, Python, and R
 - Translates findings into actionable insights via Tableau data visualizations and dashboards
-
 
 **Physical Therapist II – Acute Care**\
 Houston Methodist Hospital – Texas Medical Center\
