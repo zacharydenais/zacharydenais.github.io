@@ -41,7 +41,7 @@ July 2022 – Present
 
 
 **PRN Physical Therapist II**\
-Children’s Memorial Hermann – Texas Medical Center\
+Children’s Memorial Hermann Hospital – Texas Medical Center\
 July 2022 – Sept. 2023
 - Performed direct patient care to orthopedic/trauma, cardiac, and neurologic populations in acute, intermediate, and intensive care units in a level I trauma pediatric hospital
 - Served as a subject matter expert / clinical resource for interprofessional teams regarding safe mobilization of pediatric patients
