@@ -18,7 +18,7 @@ Baylor University, 2016
 # <ins>Technical Skills</ins>
 *Data Wrangling, Data Analysis, Data Visualization, Object-Oriented Programming, Statistical Analysis, Quantitative Communication, Big Data Management, Database Management, Machine Learning*
 
-Entry-level to intermediate experience with Python (pandas, pyspark, sklearn), R, SAS, SQL, Tableau
+Entry-level to intermediate experience with Python (pandas, pyspark, sklearn), R, SAS, SQL, SAS, and Tableau
 
 
 
