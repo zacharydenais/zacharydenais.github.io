@@ -21,7 +21,7 @@ Baylor University, 2016
 **Languages:** Python, R, SAS, SQL\
 **Data Management and Big Data:** PySpark, MongoDB, Pandas, NumPy\
 **Machine Learning & AI:** scikit-learn, PySpark\
-**Data Visualization:** Tableau, Matplotlib, Seaborn\
+**Data Visualization:** Tableau, Matplotlib, Seaborn
 
 
 
