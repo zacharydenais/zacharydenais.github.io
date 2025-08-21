@@ -35,13 +35,13 @@ January 2025 – Present
 - Organizes, cleans, validates, and prepares data from multiple data sources and performs statistical analysis using SAS, Python, and R
 - Translates findings into actionable insights via Tableau data visualizations and dashboards
 \
-
+\
 **Data Analysis Intern**\
 MD Anderson\
 - Designed and led cancer treatment delay risk factor project involving analysis of SEER Program dataset using both traditional statistical and machine learning methods
 - Performed  big data management with PySpark, data wrangling with PySpark and Pandas, statistical analysis with statsmodels, and machine learning development with scikit-learn
 \
-
+\
 **Physical Therapist II – Acute Care**\
 Houston Methodist Hospital – Texas Medical Center\
 July 2022 – Present
@@ -50,14 +50,14 @@ July 2022 – Present
 - Serves as residency faculty member and research mentor for Acute Care Physical Therapy Residency program, assisting with clinical education, curriculum development, and research mentorship
 - Provides intra- and interdepartmental staff trainings, including presentation at the Houston Methodist Neuroscience Nursing Symposium
 \
-
+\
 **PRN Physical Therapist II**\
 Children’s Memorial Hermann Hospital – Texas Medical Center\
 July 2022 – Sept. 2023
 - Performed direct patient care to orthopedic/trauma, cardiac, and neurologic populations in acute, intermediate, and intensive care units in a level I trauma pediatric hospital
 - Served as a subject matter expert / clinical resource for interprofessional teams regarding safe mobilization of pediatric patients
 \
-
+\
 **Acute Care Physical Therapy Resident**\
 Memorial Hermann Hospital – Texas Medical Center\
 June 2021 – July 2022
@@ -65,7 +65,7 @@ June 2021 – July 2022
 - Developed and facilitated six educational evidence-informed in-services on current best practice
 - Developed and administered quality improvement project using EHR-extracted data to analyze impact of hospital operational changes on patient discharge patterns in collaboration with Data Analytics team
 \
-
+\
 **Physical Therapist I – Acute Care**\
 TIRR Memorial Hermann Greater Heights\
 July 2019 – June 2021
