@@ -37,7 +37,7 @@ January 2025 – Present
 
 
 **Data Analysis Intern**\
-MD Anderson\
+MD Anderson
 - Designed and led cancer treatment delay risk factor project involving analysis of SEER Program dataset using both traditional statistical and machine learning methods
 - Performed  big data management with PySpark, data wrangling with PySpark and Pandas, statistical analysis with statsmodels, and machine learning development with scikit-learn\
 
