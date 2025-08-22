@@ -29,7 +29,7 @@ Baylor University, 2016
 ## **Identifying Risk Factors for Delayed Cancer Treatment - SEER Project**
 [SEER Project GitHub Repository](https://github.com/zacharydenais/Capstone_Project)\
 Utilized data from the Surveillance, Epidemiology, and End Results (SEER) Program to identify treatment delay risk factors in colorectal cancer and develop a machine learning model for treatment delay classification and important feature identification in all cancer types. In linear regression, male sex, diagnosis age >19 years, Hispanic ethnicity, Black or Asian / Pacific Islander race, and a diagnosis year of 2020-2022 were all associated with a significant increase in time to treatment. In logistic regression, age other than 60-69 years and Black race were associated with decreased odds of treatment delay. Diagnosis age group, household income, year of diagnosis, and metropolitan area were identified as the most important features in the Random Forest model without feature engineering.\
-![Top 20 Feature Importances](Top 20 Feature Importances.png)
+![Top 20 Feature Importances](https://github.com/zacharydenais/zacharydenais.github.io/blob/main/assets/Top%2020%20Feature%20Importances.png)
 
 
 
