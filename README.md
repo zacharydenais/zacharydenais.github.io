@@ -30,13 +30,13 @@ Baylor University, 2016
 [SEER Project GitHub Repository](https://github.com/zacharydenais/Capstone_Project)\
 Utilized data from the Surveillance, Epidemiology, and End Results (SEER) Program to identify treatment delay risk factors in colorectal cancer and develop a machine learning model for treatment delay classification and important feature identification in all cancer types. In linear regression, male sex, diagnosis age >19 years, Hispanic ethnicity, Black or Asian / Pacific Islander race, and a diagnosis year of 2020-2022 were all associated with a significant increase in time to treatment. In logistic regression, age other than 60-69 years and Black race were associated with decreased odds of treatment delay. Diagnosis age group, household income, year of diagnosis, and metropolitan area were identified as the most important features in the Random Forest model without feature engineering.\
 \
-![Top 20 Feature Importances](assets/Top_20_Feature_Importances.png)\
+![Top 20 Feature Importances](assets/Top_20_Feature_Importances.png)
 
 ## **Chronic Disease / Medicare Utilization Analysis**
 [Chronic Disease / Medicare Utilization GitHub Repository](https://github.com/zacharydenais/Data_Analysis_with_Pandas/tree/main)\
 Analyzed a dataset containing Medicare utilization information to determine chronic disease prevalence and cost. Identified COPD as the most prevalent chronic disease nationally across both age and racial groups. Determined that stroke has the hightest per capita Medicare cost in the US.\
 \
-![National Chronic Condition Prevalence by Race](assets/chronic_disease_prevalence_by_race.png)\
+![National Chronic Condition Prevalence by Race](assets/chronic_disease_prevalence_by_race.png)
 \
 ![Medicare Costs of Chronic Conditions](assets/chronic_disease_medicare_cost.png)
 
