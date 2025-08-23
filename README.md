@@ -37,8 +37,6 @@ Utilized data from the Surveillance, Epidemiology, and End Results (SEER) Progra
 Analyzed a dataset containing Medicare utilization information to determine chronic disease prevalence and cost. Identified COPD as the most prevalent chronic disease nationally across both age and racial groups. Determined that stroke has the hightest per capita Medicare cost in the US.\
 \
 ![National Chronic Condition Prevalence by Race](assets/chronic_disease_prevalence_by_race.png)
-\
-![Medicare Costs of Chronic Conditions](assets/chronic_disease_medicare_cost.png)
 
 
 # <ins>Work Experience</ins>
