@@ -45,8 +45,7 @@ Analyzed a dataset containing Medicare utilization information to determine chro
 Texas DSHS – Texas Healthcare Information Collection Team\
 January 2025 – Present							 
 - Designing and completing data science research project in collaboration with THCIC team, to investigate avoidable Emergency Department visits for chronic disease management in Texas
-- Organizes, cleans, validates, and prepares data from multiple data sources and performs statistical analysis using SAS, Python, and R
-- Translates findings into actionable insights via Tableau data visualizations and dashboards
+- Organizes, cleans, validates, and prepares data from multiple data sources and performs statistical analysis using **PySpark**
 
 
 **Data Analysis Intern**\
