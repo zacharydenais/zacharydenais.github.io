@@ -58,8 +58,6 @@ May 2025 - August 2025
 **Physical Therapist II – Acute Care**\
 Houston Methodist Hospital – Texas Medical Center\
 July 2022 – Present
-- Collaborates with leadership and nursing teams to generate innovative solutions in high-volume surgery units that improve quality and efficiency of care
-- Develops quality improvement projects that facilitate unit throughput and improved resource utilization, including referral algorithms for improved referral quality and staffing models
 - Serves as residency faculty member and research mentor for Acute Care Physical Therapy Residency program, assisting with clinical education, curriculum development, and research mentorship
 - Provides intra- and interdepartmental staff trainings, including presentation at the Houston Methodist Neuroscience Nursing Symposium
 
